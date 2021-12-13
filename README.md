@@ -1,11 +1,5 @@
 # Cover Card landing page theme
 
-## Quick set-up
-
-1. [Use this template](https://github.com/epidrome/cover-card/generate)
-2. Edit the `_config.yml` with your online presence accounts and upload a background and an avatar image
-3. Go to `Settings`, scroll down to `Github Pages` and find your new home page link
-
 ## Dependencies
 
 This theme is based on [jekyll](https://jekyllrb.com/) and [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme). These dependencies are natively supported by [Github Pages](https://pages.github.com/), which should build and deploy your site as soon as you make any change to your files. The theme is also based on the icons from [Font Awesome](https://fontawesome.com/). 
